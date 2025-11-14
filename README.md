@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi there, I'm a Full-stack Developer 👋
+
+> I build fast, accessible web applications using React and Next.js.
+> I am focused on building scalable backend systems.
+
+---
+
+### 🛠️ Core Toolkit
+
+* **Frontend:** React, Next.js, Tanstack Query, Zustand, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Currently Learning:** Go
+
+---
+
+### 📫 Connect with Me
+
+* **Portfolio:** [vijay-dev-portfolio.vercel.app](https://vijay-dev-portfolio.vercel.app/)
+* **LinkedIn:** [linkedin.com/in/vijaysubramanian1258](https://www.linkedin.com/in/vijaysubramanian1258)
 
 <!--
 **itsVijayCoder/itsVijayCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
