@@ -16,8 +16,8 @@
 
 ### 📫 Connect with Me
 
-* **Portfolio:** [vijay-dev-portfolio.vercel.app](https://www.vijaysubramanian.me/)
-* **LinkedIn:** [linkedin.com/in/vijaysubramanian1258](https://www.linkedin.com/in/itsVijayCoder)
+* **Portfolio:** [VijaySubramanian.me](https://www.vijaysubramanian.me/)
+* **LinkedIn:** [linkedin.com/in/itsVijayCoder](https://www.linkedin.com/in/itsVijayCoder)
 
 <!--
 **itsVijayCoder/itsVijayCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
