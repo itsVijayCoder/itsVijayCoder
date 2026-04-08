@@ -7,9 +7,9 @@
 
 ### 🛠️ Core Toolkit
 
-* **Frontend:** React, Next.js, Tanstack Query, Zustand, Tailwind CSS
+* **Frontend:** React, Next.js, Tanstack Query, Zustand, Tailwind CSS, ShadcnUI
 * **Backend:** Node.js, Express.js
-* **Deployment:** Cloudflare, Vercel, Render
+* **Deployment:** Cloudflare, Vercel, Docker
 * **Currently Learning:** Go
 
 ---
