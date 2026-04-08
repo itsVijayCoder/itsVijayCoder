@@ -9,6 +9,7 @@
 
 * **Frontend:** React, Next.js, Tanstack Query, Zustand, Tailwind CSS
 * **Backend:** Node.js, Express.js
+* **Deployment:** Cloudflare, Vercel, Render
 * **Currently Learning:** Go
 
 ---
